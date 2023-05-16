@@ -1,7 +1,14 @@
+-*- Patched by Awkless -*-
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+
+Patches
+-------
+- Use srcery colorscheme <https://github.com/srcery-colors/srcery-terminal>.
+- Any size patch <https://st.suckless.org/patches/anysize/>.
 
 Requirements
 ------------
