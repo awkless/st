@@ -94,9 +94,10 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* Terminal colors (16 first used in escape sequence) */
+/* Using srcery colorscheme. */
 static const char *colorname[] = {
-    /* 8 dark colors */
-    "#1c1b19",
+	/* 8 dark colors */
+	"#1c1b19",
 	"#ef2f27",
 	"#519f50",
 	"#fbb829",
