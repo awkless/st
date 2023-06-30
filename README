@@ -9,6 +9,7 @@ Patches
 -------
 - Use srcery colorscheme <https://github.com/srcery-colors/srcery-terminal>.
 - Any size patch <https://st.suckless.org/patches/anysize/>.
+- Alpha patch <https://st.suckless.org/patches/alpha/>.
 
 Requirements
 ------------
